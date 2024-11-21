@@ -3,7 +3,7 @@
 // -------------------------------------------
 
 // Example 1
-/* 
+
 use std::sync::mpsc;
 use std::thread;
 fn main() {
@@ -18,18 +18,18 @@ fn main() {
     }
 
     drop(tx);
-    let recv_val = rx.recv().unwrap();
-    println!("Recieved {recv_val}");
-    let recv_val = rx.recv().unwrap();
-    println!("Received {recv_val}");
+    //let recv_val = rx.recv().unwrap();
+    //println!("A Recieved {recv_val}");
+    //let recv_val = rx.recv().unwrap();
+    // println!("B Received {recv_val}");
 
-    // for message in rx {
-    //     println!("Received {message}");
-    // }
-} 
-*/
+    for message in rx {
+        println!("C Received {message}");
+    }
+}
 
-// Example 2 
+// Example 2
+/*
 use std::{sync::mpsc, thread};
 fn main() {
     let (tx, rx) = mpsc::channel();
@@ -55,4 +55,4 @@ fn main() {
         }
     }
 }
-
+*/
