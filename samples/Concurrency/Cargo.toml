@@ -1,0 +1,10 @@
+[package]
+name = "Concurrency"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ureq = "2.10.1"
+
+[[bin]]
+name = "web-scrapping"
