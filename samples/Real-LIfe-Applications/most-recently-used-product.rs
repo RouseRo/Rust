@@ -1,11 +1,11 @@
-// -------------------------------------------
+// --------------------------------------------
 // 			Most Recently Used Products
 //           	- Description
 //           	    - A business is interesting in knowing the products that has been
 //                    purchased most recently by a customer.
 //           	- Tools
 //           	    - Hashmaps + Doubly Link List
-// -------------------------------------------
+// --------------------------------------------
 
 use std::cell::RefCell;
 use std::collections::HashMap;
