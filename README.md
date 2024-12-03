@@ -1,3 +1,3 @@
 "# Rust"
 
-Modified traits-bound.rs to implement the shape of circle.
+A collection of Rust coding examples from courses I've taken.  No particular order.
