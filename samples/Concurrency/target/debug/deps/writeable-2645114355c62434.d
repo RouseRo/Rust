@@ -1,0 +1,11 @@
+c:\Users\rober\Source\Repos\Rust\samples\Concurrency\target\debug\deps\libwriteable-2645114355c62434.rmeta: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs
+
+c:\Users\rober\Source\Repos\Rust\samples\Concurrency\target\debug\deps\writeable-2645114355c62434.d: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs
+
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs:

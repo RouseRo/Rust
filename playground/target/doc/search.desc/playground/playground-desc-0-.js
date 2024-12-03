@@ -1,0 +1,1 @@
+searchState.loadedDescShard("playground", 0, "Function: add_five")
