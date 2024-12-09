@@ -1,0 +1,11 @@
+c:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\libconst_hex-ff70070ec883f2e2.rmeta: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src/lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\mod.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\generic.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\impl_core.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\traits.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\buffer.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\x86.rs
+
+c:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\const_hex-ff70070ec883f2e2.d: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src/lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\mod.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\generic.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\impl_core.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\traits.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\buffer.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\x86.rs
+
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src/lib.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\mod.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\generic.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\impl_core.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\traits.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\buffer.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-hex-1.14.0\src\arch\x86.rs:

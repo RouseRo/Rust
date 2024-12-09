@@ -1,0 +1,13 @@
+c:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\libtoml-5ff66ca37be9b4ff.rmeta: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src/lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\map.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\value.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\de.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\ser.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\macros.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\edit.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\fmt.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\table.rs
+
+c:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\toml-5ff66ca37be9b4ff.d: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src/lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\map.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\value.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\de.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\ser.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\macros.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\edit.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\fmt.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\table.rs
+
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src/lib.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\map.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\value.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\de.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\ser.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\macros.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\edit.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\fmt.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\toml-0.8.19\src\table.rs:

@@ -1,0 +1,12 @@
+C:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\librlp-f4fe5e957bd595ee.rmeta: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\error.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\impls.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\rlpin.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\stream.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\traits.rs
+
+C:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\librlp-f4fe5e957bd595ee.rlib: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\error.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\impls.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\rlpin.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\stream.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\traits.rs
+
+C:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\rlp-f4fe5e957bd595ee.d: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\error.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\impls.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\rlpin.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\stream.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\traits.rs
+
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\lib.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\error.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\impls.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\rlpin.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\stream.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rlp-0.5.2\src\traits.rs:

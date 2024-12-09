@@ -1,0 +1,11 @@
+C:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\libhashers-c5bdde0cc7ce6e90.rmeta: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\pigeon.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\oz.rs
+
+C:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\libhashers-c5bdde0cc7ce6e90.rlib: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\pigeon.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\oz.rs
+
+C:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\hashers-c5bdde0cc7ce6e90.d: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\pigeon.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\oz.rs
+
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\lib.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\jenkins\mod.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\jenkins\spooky_hash.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\pigeon.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hashers-1.0.1\src\oz.rs:

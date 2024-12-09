@@ -1,0 +1,5 @@
+c:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\libprimitive_types-84e9b8bc039b697e.rmeta: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primitive-types-0.12.2\src\lib.rs
+
+c:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\primitive_types-84e9b8bc039b697e.d: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primitive-types-0.12.2\src\lib.rs
+
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primitive-types-0.12.2\src\lib.rs:
