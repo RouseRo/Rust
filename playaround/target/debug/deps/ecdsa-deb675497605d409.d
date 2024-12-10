@@ -1,0 +1,12 @@
+c:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\libecdsa-deb675497605d409.rmeta: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\normalized.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\recovery.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\der.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\hazmat.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\signing.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\verifying.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\../README.md
+
+c:\Users\rober\Source\Repos\Rust\playaround\target\debug\deps\ecdsa-deb675497605d409.d: C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\lib.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\normalized.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\recovery.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\der.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\hazmat.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\signing.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\verifying.rs C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\../README.md
+
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\lib.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\normalized.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\recovery.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\der.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\hazmat.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\signing.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\verifying.rs:
+C:\Users\rober\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecdsa-0.16.9\src\../README.md:
